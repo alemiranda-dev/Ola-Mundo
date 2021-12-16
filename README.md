@@ -1,14 +1,15 @@
 # Olá Mundo! :wave:
 
-Olá! Sejam bem vindos ao meu repositório, me chamo Alexandre.
+Olá! Sejam bem vindos ao meu portifólio.
 
-Tenho 26 anos, sou formado em Gestão de Tecnologia da Informação e estou me aprofundando aos estudos em desenvolvimento.
 
 ### Tecnologias que estou aprendendo
 
-- JavaScript / TypeScript
-- NodeJS
-- ReactJS
-- MySQL
-- MongoDB
-- Docker
+##### JavaScript / TypeScript
+- [JS Lista de Tarefas "ToDo" (Simples)](https://github.com/alemiranda-dev/ListaTarefa)
+- [JS Cronometro (Simples)](https://github.com/alemiranda-dev/Cronometro)
+##### NodeJS
+##### ReactJS
+#####  MySQL
+##### MongoDB
+##### Docker
